@@ -1,76 +1,75 @@
 
 {
-	"VehicleList": [
-			{
-			    "id": 1,
-			    "manufacturer": "Turboprop",
-			    "model" : "10948",
-			    "tail_number" : "LO095",
-			    "type" : "seaplane",
-			    "max_travel_distance" : "1500",
-			    "max_passenger_wt" : "1500 lbs",
-			    "total_seats": 7,
-			    "available_seats": 2,
-			    "price_per_seat": 800,
-			    "total_price" : 15000,
-			    "tax" : 150,
-			    "fees" : 100,
-			    "description" : "Scffsf fasfasf asf asfas fasf asfasf",
-			    "sub_desc" : "Scffsf fasfasf asf asfas fasf asfasf",
-			    "aircraftThumbnail": [{
+	"VehicleList": [{
+			"id": 1,
+			"manufacturer": "Turboprop",
+			"model": "10948",
+			"tail_number": "LO095",
+			"type": "seaplane",
+			"max_travel_distance": "1500",
+			"max_passenger_wt": "1500 lbs",
+			"total_seats": 7,
+			"available_seats": 2,
+			"price_per_seat": 800,
+			"total_price": 15000,
+			"tax": 150,
+			"fees": 100,
+			"description": "Scffsf fasfasf asf asfas fasf asfasf",
+			"sub_desc": "Scffsf fasfasf asf asfas fasf asfasf",
+			"aircraftThumbnail": [{
 
-				    "0" : "https://brs-apartments.s3.amazonaws.com/blade/production/charter-estimate-rules/1508197808.jpeg",
-				    "1" : "https://brs-apartments.s3.amazonaws.com/blade/production/charter-estimate-rules/1508197808.jpeg",
-				    "2" : "https://brs-apartments.s3.amazonaws.com/blade/production/charter-estimate-rules/1508197808.jpeg",
-			      }]
-			 },
-			
-			{
-			    "id": 2,
-			    "manufacturer": "SpeedFlight",
-			    "model" : "23872",
-			    "tail_number" : "PN987",
-			    "type" : "seaplane",
-			    "max_travel_distance" : "1200",
-			    "max_passenger_wt" : "1000 lbs",
-			    "total_seats": 7,
-			    "available_seats": 2,
-			    "price_per_seat": 800,
-			    "total_price" : 15000,
-			    "tax" : 150,
-			    "fees" : 100,
-			    "description" : "Scffsf fasfasf asf asfas fasf asfasf",
-			    "sub_desc" : "Scffsf fasfasf asf asfas fasf asfasf",
-			    "aircraftThumbnail": [{
+				"0": "https://brs-apartments.s3.amazonaws.com/blade/production/charter-estimate-rules/1508197808.jpeg",
+				"1": "https://brs-apartments.s3.amazonaws.com/blade/production/charter-estimate-rules/1508197808.jpeg",
+				"2": "https://brs-apartments.s3.amazonaws.com/blade/production/charter-estimate-rules/1508197808.jpeg"
+			}]
+		},
 
-				    "0" : "https://ei.marketwatch.com/Multimedia/2018/04/03/Photos/ZH/MW-GG707_privat_20180403142848_ZH.jpg",
-				    "1" : "https://brs-apartments.s3.amazonaws.com/blade/production/charter-estimate-rules/1508197808.jpeg",
-				    "2" : "https://brs-apartments.s3.amazonaws.com/blade/production/charter-estimate-rules/1508197808.jpeg",
-			      }]
-			 },
-			{
-			    "id": 1,
-			    "manufacturer": "Turboprop",
-			    "model" : "10948",
-			    "tail_number" : "LO095",
-			    "type" : "seaplane",
-			    "max_travel_distance" : "1500",
-			    "max_passenger_wt" : "1500 lbs",
-			    "total_seats": 7,
-			    "available_seats": 2,
-			    "price_per_seat": 800,
-			    "total_price" : 15000,
-			    "tax" : 150,
-			    "fees" : 100,
-			    "description" : "Scffsf fasfasf asf asfas fasf asfasf",
-			    "sub_desc" : "Scffsf fasfasf asf asfas fasf asfasf",
-			    "aircraftThumbnail": [{
+		{
+			"id": 2,
+			"manufacturer": "SpeedFlight",
+			"model": "23872",
+			"tail_number": "PN987",
+			"type": "seaplane",
+			"max_travel_distance": "1200",
+			"max_passenger_wt": "1000 lbs",
+			"total_seats": 7,
+			"available_seats": 2,
+			"price_per_seat": 800,
+			"total_price": 15000,
+			"tax": 150,
+			"fees": 100,
+			"description": "Scffsf fasfasf asf asfas fasf asfasf",
+			"sub_desc": "Scffsf fasfasf asf asfas fasf asfasf",
+			"aircraftThumbnail": [{
 
-				    "0" : "https://ei.marketwatch.com/Multimedia/2018/04/03/Photos/ZH/MW-GG707_privat_20180403142848_ZH.jpg",
-				    "1" : "http://bsmedia.business-standard.com/_media/bs/img/article/2017-09/09/full/1504901010-2618.jpg",
-				    "2" : "https://d1muf25xaso8hp.cloudfront.net/http://s3.amazonaws.com%2Fappforest_uf%2Ff1482501887312x651674123713746700%2Fshutterstock_95222554.jpg",
-			      }]
-			 },
-		
-	        ]
+				"0": "https://ei.marketwatch.com/Multimedia/2018/04/03/Photos/ZH/MW-GG707_privat_20180403142848_ZH.jpg",
+				"1": "https://brs-apartments.s3.amazonaws.com/blade/production/charter-estimate-rules/1508197808.jpeg",
+				"2": "https://brs-apartments.s3.amazonaws.com/blade/production/charter-estimate-rules/1508197808.jpeg"
+			}]
+		},
+		{
+			"id": 1,
+			"manufacturer": "Turboprop",
+			"model": "10948",
+			"tail_number": "LO095",
+			"type": "seaplane",
+			"max_travel_distance": "1500",
+			"max_passenger_wt": "1500 lbs",
+			"total_seats": 7,
+			"available_seats": 2,
+			"price_per_seat": 800,
+			"total_price": 15000,
+			"tax": 150,
+			"fees": 100,
+			"description": "Scffsf fasfasf asf asfas fasf asfasf",
+			"sub_desc": "Scffsf fasfasf asf asfas fasf asfasf",
+			"aircraftThumbnail": [{
+
+				"0": "https://ei.marketwatch.com/Multimedia/2018/04/03/Photos/ZH/MW-GG707_privat_20180403142848_ZH.jpg",
+				"1": "http://bsmedia.business-standard.com/_media/bs/img/article/2017-09/09/full/1504901010-2618.jpg",
+				"2": "https://d1muf25xaso8hp.cloudfront.net/http://s3.amazonaws.com%2Fappforest_uf%2Ff1482501887312x651674123713746700%2Fshutterstock_95222554.jpg"
+			}]
+		}
+
+	]
 }
